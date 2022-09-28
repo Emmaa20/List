@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.first{
+    text-align: center;
+    margin: 30px auto;
+}
+
+.first input{
+    outline: none;
+    padding: 10px 20px;
+    border: 1px solid rgb(209, 206, 206);
+    border-radius: 10px;
+}
+
+.first button{
+    border: none;
+    background-color: #721e1e;
+    color: white;
+    border-radius: 10px;
+    padding: 11px 24px;
+    transition: .5s;
+}
+
+.first button:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.set{
+ width: 35%;
+};
